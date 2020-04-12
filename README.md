@@ -1,7 +1,6 @@
 # Probono
 Helping everyone, everywhere !
 
-
 ## Why Probono
 Probono is an open source project which helps real people to make service needs and offers meet via a web app. It has been built to tackle as soon and efficiently as possible the COVID19 crisis in France but it can be use globally. Feel free to suggest whatever piece of code that seems interesting to our project in order to ensure Probono vision becomes real.
 
