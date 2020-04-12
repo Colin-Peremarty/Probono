@@ -5,7 +5,7 @@ Helping everyone, everywhere !
 Probono is an open source project which helps real people to make service needs and offers meet via a web app. It has been built to tackle as soon and efficiently as possible the COVID19 crisis in France but it can be use globally. Feel free to suggest whatever piece of code that seems interesting to our project in order to ensure Probono vision becomes real.
 
 ## Technical stack
-Gandi for hosting, MySQL for DB management, React Native https://reactnative.dev/ for front-end, back-end in Back4App : https://www.back4app.com/
+OVH for hosting, MySQL for DB management, React Native https://reactnative.dev/ for front-end, back-end in Back4App : https://www.back4app.com/
 
 ### This repository was initiated with create-react-native-web-app
 
