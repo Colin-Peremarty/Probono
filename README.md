@@ -1,14 +1,20 @@
 # Probono
-L'entraide par tout, l'entraide pour tous ! / Helping everyone, everywhere !
-# This repository was initiated with create-react-native-web-app
+Helping everyone, everywhere !
 
-[![NPM](https://nodei.co/npm/create-react-native-web-app.png)](https://npmjs.org/package/create-react-native-web-app)
+## Why Probono
+Probono is an open source project which helps real people to make service needs and offers meet via a web app. It has been built to tackle as soon and efficiently as possible the COVID19 crisis in France but it can be use globally. Feel free to suggest whatever piece of code that seems interesting to our project in order to ensure Probono vision becomes real.
 
-![GitHub issues](https://img.shields.io/github/issues/orYoffe/create-react-native-web-app.svg)
-![license](https://img.shields.io/github/license/orYoffe/create-react-native-web-app.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/orYoffe/create-react-native-web-app.svg)
-![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/create-react-native-web-app.svg)
-![npm](https://img.shields.io/npm/v/create-react-native-web-app.svg)
+## Technical stack
+Gandi for hosting, MySQL for DB management, React Native https://reactnative.dev/ for front-end, back-end in Back4App : https://www.back4app.com/
+
+### This repository was initiated with create-react-native-web-app
+
+- [![NPM](https://nodei.co/npm/create-react-native-web-app.png)](https://npmjs.org/package/create-react-native-web-app)
+- ![GitHub issues](https://img.shields.io/github/issues/orYoffe/create-react-native-web-app.svg)
+- ![license](https://img.shields.io/github/license/orYoffe/create-react-native-web-app.svg)
+- ![GitHub top language](https://img.shields.io/github/languages/top/orYoffe/create-react-native-web-app.svg)
+- ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/create-react-native-web-app.svg)
+- ![npm](https://img.shields.io/npm/v/create-react-native-web-app.svg)
 
 ### A simple CLI tool to start your React Native Web project to develop same app for IOS Android and Web
 
@@ -16,7 +22,7 @@ L'entraide par tout, l'entraide pour tous ! / Helping everyone, everywhere !
 <img width="300"  src="https://raw.githubusercontent.com/orYoffe/create-react-native-web-app/master/template/src/logo.png">
 </p>
 
-## Installation
+## Install Probono app
 
 ```sh
 # Run create-react-native-web-app <project-directory>
